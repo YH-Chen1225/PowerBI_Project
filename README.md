@@ -21,3 +21,6 @@ Next, we can use **drill through** from the product in the general dashboard to 
 dragging bar, which is for visualizing the profit change based on the price adjustment. Last, you can also see the specific product's cost, profit, return, revenue and return rate in the graph with the filter on the left-hand side.
 ![image](https://github.com/user-attachments/assets/b9413c84-114f-4659-b880-225296d261f4)
 
+In the next dashboard, we dive into the customer details. There, we can see the trend of the customer change, the income level of the customer, and the customer's occupation. Furthermore, we can also know the top customer, his/her order and the revenue we earn from them.
+There are also slicers to drill into details in different years.
+![image](https://github.com/user-attachments/assets/7e937979-1fe3-4121-a7e3-b0e7993a9dae)
