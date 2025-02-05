@@ -16,3 +16,8 @@ In the general dashboard, you can see clear KPI,s such as profit, revenue, best-
 
 In the next page, you can see the world map. Based on the size of a dot, you can know the selling performance. Once you hover the mouse on those dots, you will see more information about that location.
 ![image](https://github.com/user-attachments/assets/b5b82995-7d98-45bd-afcb-16a63b0f628f)
+
+Next, we can use **drill through** from the product in the general dashboard to the product detail dashboard. Here, first, I compared last month's performance with the previous month's result, which was multiplied by 1.1. Below, you can also see the parameter
+dragging bar, which is for visualizing the profit change based on the price adjustment. Last, you can also see the specific product's cost, profit, return, revenue and return rate in the graph with the filter on the left-hand side.
+![image](https://github.com/user-attachments/assets/b9413c84-114f-4659-b880-225296d261f4)
+
