@@ -28,4 +28,4 @@ There are also slicers to drill into details in different years.
 This report is made for a different audience, from managers to colleagues. There are very general KPIs but also detailed customer or product information.
 
 ## Note
-The project is learned from Maven Analytics. The content would not be used for any business reason. It is only for a showcase for personal power BI skills.
+The project is my personal learning result from Maven Analytics Courses. The content would/should not be used for any business reason. It is only for a showcase for personal power BI skills.
