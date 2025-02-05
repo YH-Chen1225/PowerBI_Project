@@ -24,3 +24,8 @@ dragging bar, which is for visualizing the profit change based on the price adju
 In the next dashboard, we dive into the customer details. There, we can see the trend of the customer change, the income level of the customer, and the customer's occupation. Furthermore, we can also know the top customer, his/her order and the revenue we earn from them.
 There are also slicers to drill into details in different years.
 ![image](https://github.com/user-attachments/assets/7e937979-1fe3-4121-a7e3-b0e7993a9dae)
+
+This report is made for a different audience, from managers to colleagues. There are very general KPIs but also detailed customer or product information.
+
+## Note
+The project is learned from Maven Analytics. The content would not be used for any business reason. It is only for a showcase for personal power BI skills.
